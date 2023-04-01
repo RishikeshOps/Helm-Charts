@@ -1,0 +1,13 @@
+apiVersion: v2
+appVersion: 0.1.1
+name: todo
+description: A Helm chart for deploying my todo application.
+kubeVersion: ^1.8.0-0
+maintainers:
+- email: rishikeshmashidkar@gmail.com
+  name: Rushikesh Mashidkar
+sources:
+  - .
+type: application
+version: 0.1.1
+
